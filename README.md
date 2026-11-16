@@ -23,7 +23,7 @@ Aquí puedes ver algunos de los trabajos más completos que fui desarrollando:
 * **[TEMBIAPO](https://github.com/MariaJoseVigo/TEMBIAPO)**
   * *¿Qué es?* Proyecto de práctica orientado al desarrollo web frontend, parte de mi formación en Programando Paraguay.
  
-  * Los demás repositorios son practicas que hacíamos en el bootcamp e iré agregando otros a medida que vaya practicando
+* **Los demás repositorios son practicas que hacíamos en el bootcamp e iré agregando otros a medida que vaya practicando
 
 ---
 
