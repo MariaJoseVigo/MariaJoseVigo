@@ -1,7 +1,7 @@
 ## Hi there 👋
 Soy María José
 
-Estudiante de Matemáticas e Ingeniería Electrónica 📐 | Descubrí la programación en el camino, como materia en ingeniería, y me animé a meterle de lleno a través de bootcamps como Programando Paraguay 💻. | Buscando mi primera oportunidad como Desarrolladora Frontend Junior o Pasante
+Estudiante de Matemáticas e Ingeniería Electrónica 📐 | Descubrí la programación en el camino, como materia en ingeniería, y me animé a meterme de lleno a través de bootcamps como Programando Paraguay 💻. | Buscando mi primera oportunidad como Desarrolladora Frontend Junior o Pasante
 
 ---
 
